@@ -14,4 +14,7 @@ Used AI mainly to create those images and for some code refactoring.
 - Use arrow down and up do navigate in the inventory
 - Left click to shoot
 
+Live demo repository: https://github.com/Kotleciak/SpaceShooterLiveDemo
+Live demo: https://kotleciak.github.io/SpaceShooterLiveDemo/
+
 **Have fun!**

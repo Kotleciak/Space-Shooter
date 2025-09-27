@@ -13,4 +13,5 @@ Used AI mainly to create those images and for some code refactoring.
 - Space for purchasing upgrades
 - Use arrow down and up do navigate in the inventory
 - Left click to shoot
+
 **Have fun!**
